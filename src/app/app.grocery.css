@@ -1,0 +1,14 @@
+div {
+  margin: 10px 30px 10px 30px;
+  font-size: 16px;
+  background-color:white;
+  padding: 0px;
+}
+h2 {
+ text-align: inherit;
+ top: 20px;
+}
+button { 
+  float: right;
+  position: relative;
+}
